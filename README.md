@@ -3,6 +3,7 @@ This is my public portfolio!
 
 ## About me
 My name is Runzhe Shi, you can call me Lonzo. I know my Chineses name is a little bit difficult to pronounce. I am a passionate and dedicated dual master's degree candidate in Civil & Environmental Engineering and Engineering & Technology Innovation Management, set to graduate in December 2023.
+
 ![image](https://github.com/runzhes/94870/assets/148808988/ccb37cd4-84c6-420b-aecf-52693cfac982)
 
 ## What I hope to learn
