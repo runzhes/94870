@@ -11,6 +11,7 @@ With a keen interest in sustainability and consulting, I am actively seeking a f
 
 ## Portfolio
 Here's where all my cool work will go!
+### In-class exercices
 ### Assignment 1
 ### Assignment 2
 ### Final project
