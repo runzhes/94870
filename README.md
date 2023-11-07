@@ -14,7 +14,7 @@ Here's where all my cool work will go!
 ### In-class exercices
 [Link to other page](page2.md)
 ### Assignment: Visualizing government debt using Tableau
-[Link to other page](dataviz1.html)
+[Part 1: Working with web-based visualization tools and data](dataviz1.html)
 ### Assignment 2
 ### Final project
 
