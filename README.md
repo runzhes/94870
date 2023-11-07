@@ -16,7 +16,7 @@ Here's where all my cool work will go!
 ### Assignment: Visualizing government debt using Tableau
 [Part 1: Working with web-based visualization tools and data](dataviz1.html)
 
-[Part 2: Working with Tableau](datavia2.md)
+[Part 2: Working with Tableau](dataviz2.md)
 ### Assignment 2
 ### Final project
 
