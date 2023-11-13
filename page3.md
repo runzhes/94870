@@ -13,4 +13,8 @@ Potential Improvements:
 - Incorporate interactive elements that allow viewers to hover over segments to see more details, such as the actual number of units sold or year-over-year growth rates.
 - Add trend lines or annotations to highlight significant changes, such as a major increase or decrease in a company's market share, to guide the viewer to these points of interest.
 - I would consider a different visualization type, like a line chart, to depict the change over time more dynamically. Each company could have its line with points for each quarter, making it easier to follow individual trajectories.
+
+## Step three: sketch out a solution
+Informed by the insights from the critique methodology, I have endeavored to reimagine the visualization, the draft of which is presented below. I explored an alternative approach, opting for an area chart to represent the data. This choice was strategic; an area chart not only illustrates the evolution of market shares over time with greater dynamism but also clearly delineates each company's share per quarter. While I have not addressed the issue of the color palette in this preliminary draft, I plan to refine it in Tableau during Step five. The primary aim of this draft, and the subsequent interview, is to gauge the efficacy of the area chart in conveying the information. Specifically, I intend to determine if the area chart facilitates a more intuitive understanding for the audience compared to the bar chart or other chart types, such as the line chart.
+
 [Go back to main portfolio page](README.md)
