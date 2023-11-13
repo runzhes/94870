@@ -19,6 +19,7 @@ Here's where all my cool work will go!
 [Part 2: Working with Tableau](dataviz2.md)
 
 [Part 3: Create your own visualization](dataviz3.md)
-### Assignment 2
+### Assignment 3 & 4: Critique by Design with Tableau (MakeoverMonday)
+[Link to other page](page3.md)
 ### Final project
 
