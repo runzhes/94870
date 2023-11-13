@@ -16,5 +16,6 @@ Potential Improvements:
 
 ## Step three: sketch out a solution
 Informed by the insights from the critique methodology, I have endeavored to reimagine the visualization, the draft of which is presented below. I explored an alternative approach, opting for an area chart to represent the data. This choice was strategic; an area chart not only illustrates the evolution of market shares over time with greater dynamism but also clearly delineates each company's share per quarter. While I have not addressed the issue of the color palette in this preliminary draft, I plan to refine it in Tableau during Step five. The primary aim of this draft, and the subsequent interview, is to gauge the efficacy of the area chart in conveying the information. Specifically, I intend to determine if the area chart facilitates a more intuitive understanding for the audience compared to the bar chart or other chart types, such as the line chart.
+![image](https://github.com/runzhes/94870/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231113154346.jpg?raw=true)
 
 [Go back to main portfolio page](README.md)
