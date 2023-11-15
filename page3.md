@@ -67,6 +67,6 @@ Design Changes:
 - Add some Top Electric Vehicle Brands highlights to provide more information.
 
 The modified design is shown below.
-
+![image](https://github.com/runzhes/94870/blob/main/step%205.png?raw=true)
 
 [Go back to main portfolio page](README.md)
