@@ -20,5 +20,60 @@ Informed by the insights from the critique methodology, I have endeavored to rei
 ![image](https://github.com/runzhes/94870/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231113154346.jpg?raw=true)
 
 ## Step four: Test the solution
+Question List:
+- Can you tell me what you think this is?
+- Can you describe to me what this is telling you?
+- Is there anything you find surprising or confusing?
+- Who do you think is the intended audience for this?
+- Is there anything you would change or do differently?
+
+Participant 1 (Engineering Student, 25)
+- Noted that Tesla leads in market share within the EV market, with BYD and Volkswagen also being significant players.
+- Expressed confusion regarding the stacked area chart, questioning the representation of market shares as ranges and why Tesla appears to have a full 100% share.
+- Suggested potential audience as prospective EV customers and environmentalists.
+- Advocated for a line chart to depict market share trends over time, highlighting that stacked area charts may not show quarter-to-quarter changes effectively.
+- Recommended that visualizations explicitly indicate stacked market shares and incorporate interactive labels for each data point.
+- Emphasized that the choice of visualization should match the presenter's intent.
+
+Participant 2 (Economics Student, 23)
+- Understood the visualization to be about the global passenger EV market share.
+- Recognized Tesla's market dominance and sought clarity on BYD Auto's market role.
+- Questioned why all companies' market shares add up to 100%, finding the shaded areas of the chart unclear.
+- Identified the intended audience as EV industry investors, company employees, and executives.
+- Proposed reordering the stacked areas to highlight specific brands based on the target audience, using color differentiation.
+- Suggested adding labels to emphasized data points and including the average market share level for each company within the timeframe.
+
+In-Class Discussion
+- A consensus was reached to remove the "Others" category to reduce distraction and improve focus on the top players.
+- If the "Others" category is removed, the title should be changed to "Global Top 3 Passenger EV Company Market Share."
+- Recommended against adding labels to every data point to avoid clutter, suggesting the addition of labels only to emphasized points.
+
+## Step five: Build your solution
+Learn from Feedback:
+- Stacked area plot may be a little bit confusing when visualize the market share.
+- Intended audiences would vary among customers, environmentalists, investors and internal employees.
+- The selection, order and color of stacked areas are essential to convey the perspectives to audiences.
+- labels should be added to convey more information.
+- Average level market share should be added as a benchmark.
+- "Others" category is too attractive.
+
+Design Changes:
+- Delete the "Others" category and focus on the market share trend of "Tesla", "BYD" and "Volkswagen"
+- Change the title to "Market Share of Global Top3 Passenger EV Company (Q3 2021~Q2 2023)"
+- The stacked areas are ordered ascendingly in terms of market share.
+- Assign each electric vehicle manufacturer a unique color
+- Only add labels for the most recent quarter (Q2 2023), other information is interactive.
+- Add a average level market share line.
+- Add some Top Electric Vehicle Brands highlights to provide more information.
+
+The modified design is shown below.
+<div class='tableauPlaceholder' id='viz1700017525928' style='position: relative'><noscript><a href='#'><img alt='Market Share of Global Top3 Passenger EV Company (Q3 2021~Q2 2023) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment34_17000070249480&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Assignment34_17000070249480&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment34_17000070249480&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /></object></div>                <script type='text/javascript'>
+  var divElement = document.getElementById('viz1700017525928');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px
+    var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
 
 [Go back to main portfolio page](README.md)
