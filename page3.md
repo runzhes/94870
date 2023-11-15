@@ -49,24 +49,24 @@ In-Class Discussion
 - Recommended against adding labels to every data point to avoid clutter, suggesting the addition of labels only to emphasized points.
 
 ## Step five: Build your solution
-Learn from Feedback:
-- Stacked area plot may be a little bit confusing when visualize the market share.
-- Intended audiences would vary among customers, environmentalists, investors and internal employees.
-- The selection, order and color of stacked areas are essential to convey the perspectives to audiences.
-- labels should be added to convey more information.
-- Average level market share should be added as a benchmark.
-- "Others" category is too attractive.
+Reflection on Feedback:
+- It's recognized that the stacked area plot might introduce confusion in visualizing market shares.
+- The audience could include a diverse group ranging from consumers and environmentalists to investors and company staff.
+- The careful curation of stacked areas in terms of selection, sequencing, and color is crucial for effectively communicating the intended message to the audience.
+- Additional labels can serve to impart greater detail.
+- Incorporating an average market share metric could serve as a useful reference point.
+- The prominence of the "Others" category may divert attention from key data.
 
-Design Changes:
-- Delete the "Others" category and focus on the market share trend of "Tesla", "BYD" and "Volkswagen"
-- Change the title to "Market Share of Global Top3 Passenger EV Company (Q3 2021~Q2 2023)"
-- The stacked areas are ordered ascendingly in terms of market share.
-- Assign each electric vehicle manufacturer a unique color
-- Only add labels for the most recent quarter (Q2 2023), other information is interactive.
-- Add a average level market share line.
-- Add some Top Electric Vehicle Brands highlights to provide more information.
+Proposed Design Modifications:
+- Omit the "Others" category to sharpen the focus on the market shares of "Tesla," "BYD," and "Volkswagen."
+- Revise the title to "Market Share Trends of Top 3 Global Passenger EV Companies (Q3 2021–Q2 2023)."
+- Arrange the stacked areas in ascending order based on market share size.
+- Allocate a distinct color to each EV manufacturer to facilitate clear differentiation.
+- Label data points for the most recent quarter (Q2 2023) explicitly, with additional data being accessible interactively.
+- Introduce a line to depict the average market share over the time period for benchmarking.
+- Enhance the visualization with highlights on some of the leading EV brands for enriched context.
 
-The modified design is shown below.
+The modified design is shown below:
 ![image](https://github.com/runzhes/94870/blob/main/step%205.png?raw=true)
 
 [Go back to main portfolio page](README.md)
