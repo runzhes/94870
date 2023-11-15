@@ -69,4 +69,17 @@ Proposed Design Modifications:
 The modified design is shown below:
 ![image](https://github.com/runzhes/94870/blob/main/step%205.png?raw=true)
 
+The redesigned data visualization presents the market share trends of the top three passenger electric vehicle (EV) companies from Q3 2021 to Q2 2023. By selecting a stacked area chart, the visualization aims to show how the individual market shares of Tesla, BYD Auto, and Volkswagen Group contribute to the overall market dynamics within the given timeframe.
+
+Key aspects of the redesigned visualization:
+- Focus on Major Players: The "Others" category was removed to concentrate on the specific market share trends of the top three companies. This declutters the graph and directs the audience's attention to the primary subjects of the analysis.
+- Clear Title: The title "Market Share of Global Top3 Passenger EV Company (Q3 2021~Q2 2023)" provides a concise description of the chart's content, making it immediately clear what the data represents.
+- Ordered Stacked Areas: The areas are stacked in ascending order according to market share size, which allows for easier comparison of each company's market share and its growth over time.
+- Color Differentiation: Each company is represented by a unique color, enhancing the visual distinction between the layers of the chart and facilitating quicker identification of market share changes.
+- Selective Labeling: Labels for the most recent quarter (Q2 2023) are added to provide the latest data points at a glance, offering immediate insights into the current market distribution without overwhelming the viewer with too much information.
+- Average Market Share Line: An average line across the chart provides a benchmark for comparison, allowing viewers to easily see which companies are performing above or below the average within the observed period.
+- Highlighting Key Insights: Specific annotations highlight significant insights, such as Tesla's 83% year-over-year (YoY) growth in Q2 2023, allowing viewers to grasp important trends quickly.
+
+The intention behind this redesign is to offer a more focused and less cluttered view of the EV market, emphasizing the competitive landscape among the leading companies. It aims to balance detail with clarity, presenting the most pertinent information in an interactive and user-friendly manner.
+
 [Go back to main portfolio page](README.md)
