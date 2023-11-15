@@ -1,3 +1,4 @@
+# Assignment 3 & 4: Critique by Design with Tableau (MakeoverMonday)
 ## Step one: choose a data visualization from MakeoverMonday
 I selected a specific visualization that portrays the market share of global electric vehicle sales on a quarterly basis from Q3 2021 to Q2 2023. My rationale for choosing this visualization is threefold. Firstly, it complies fully with the rubric requirements, as the underlying data is readily extractable and can be replicated with precision. Secondly, the dataset is both clear and succinct, obviating the need for any preliminary data cleaning or preprocessing — a factor that significantly streamlines the visualization process. Lastly, the subject of the dataset resonates with my personal interests in sustainability and decarbonization, with electric vehicles being a topic I am particularly passionate about.
 ![image](https://www.counterpointresearch.com/wp-content/uploads/2023/06/Global-EV-market-share-Q2-2023.png)
