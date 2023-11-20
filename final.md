@@ -33,4 +33,20 @@ Wind energy stands at the forefront of the global shift towards renewable power 
 ### Sketch 1
 Sketch 1 will depict the global annual wind energy capacity incresement and global annual growth rate, highlighting the trend over the past decade.
 ![image](https://github.com/runzhes/94870/blob/main/Year%20growth.png?raw=true)
+### Sketch 2
+Sketch 2 will illustrate wind energy capacity by country in a world map, giving audiences a geographical view.
+![image](https://github.com/runzhes/94870/blob/main/Global%20map.png?raw=true)
+### Sketch 3
+Sketch 3 will compare wind energy capacity across different regions, allowing for a comparative analysis of regional growth and adoption.
+![image](https://github.com/runzhes/94870/blob/main/Region.png?raw=true)
+### Sketch 4
+Sketch 4 is a breakdown of global annual wind energy capacity incresement by regions, analyzing the regional trend.
+![image](https://github.com/runzhes/94870/blob/main/Year%20breakdown.png?raw=true)
+### Sketch 5
+Sketch 5 will depict the life-cycle emissions of selected electricity supply technologies, highting the low-carbon attribute of wind energy.
+![image](https://github.com/runzhes/94870/blob/main/emission.png?raw=true)
+### Sketch 6
+Sketch 6 will display the global primary energy consumption share of different sources from 2000-2022, emphasizing the relatively low share of wind energy.
+![image](https://github.com/runzhes/94870/blob/main/share.png?raw=true)
+## The data
 [Go back to main portfolio page](README.md)
