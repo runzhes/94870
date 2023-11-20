@@ -49,4 +49,16 @@ Sketch 5 will depict the life-cycle emissions of selected electricity supply tec
 Sketch 6 will display the global primary energy consumption share of different sources from 2000-2022, emphasizing the relatively low share of wind energy.
 ![image](https://github.com/runzhes/94870/blob/main/share.png?raw=true)
 ## The data
+### Explanation of Data
+The project is substantiated by data from three key sources that offer comprehensive insights into the expansion and impact of wind energy globally. The first source is the Global Wind Power Tracker provided by Global Energy Monitor, which presents a summary table of wind power projects across various stages—operational, under construction, and proposed. This rich dataset enables us to analyze the growth trends in wind energy capacity on a global scale, as well as to delve into regional and country-specific developments. By examining the distribution of operational and upcoming wind power projects, we can visualize the proliferation of wind energy infrastructure and its trajectory into the future.
+
+The second source is from the Intergovernmental Panel on Climate Change (IPCC), specifically the Annex III of the AR5 report, which provides data on greenhouse gas emission mitigation potentials and estimates the levelized cost of energy (LCOE) from different energy sources. This valuable information will allow us to compare the economic viability of wind energy with other renewable and non-renewable energy sources and to illustrate the potential of wind energy in reducing carbon emissions.
+
+Our third data source is Our World in Data, which offers a compilation of the global energy mix, including the contribution of wind energy over time. This dataset is crucial for showcasing the share of wind energy in the global energy mix, allowing us to create a narrative on how wind energy has emerged as a key player in the transition to a sustainable energy future. It will also help us put into context the environmental benefits realized through the adoption of wind energy by displacing more carbon-intensive energy sources.
+### Links
+- Data source 1: https://globalenergymonitor.org/projects/global-wind-power-tracker/summary-tables/
+- Data source 2: https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_annex-iii.pdf
+- Data source 3: https://ourworldindata.org/energy-mix
+## Method and medium
+
 [Go back to main portfolio page](README.md)
