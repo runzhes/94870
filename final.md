@@ -54,11 +54,18 @@ The project is substantiated by data from three key sources that offer comprehen
 
 The second source is from the Intergovernmental Panel on Climate Change (IPCC), specifically the Annex III of the AR5 report, which provides data on greenhouse gas emission mitigation potentials and estimates the levelized cost of energy (LCOE) from different energy sources. This valuable information will allow us to compare the economic viability of wind energy with other renewable and non-renewable energy sources and to illustrate the potential of wind energy in reducing carbon emissions.
 
-Our third data source is Our World in Data, which offers a compilation of the global energy mix, including the contribution of wind energy over time. This dataset is crucial for showcasing the share of wind energy in the global energy mix, allowing us to create a narrative on how wind energy has emerged as a key player in the transition to a sustainable energy future. It will also help us put into context the environmental benefits realized through the adoption of wind energy by displacing more carbon-intensive energy sources.
+The third data source is Our World in Data, which offers a compilation of the global energy mix, including the contribution of wind energy over time. This dataset is crucial for showcasing the share of wind energy in the global energy mix, allowing us to create a narrative on how wind energy has emerged as a key player in the transition to a sustainable energy future. It will also help us put into context the environmental benefits realized through the adoption of wind energy by displacing more carbon-intensive energy sources.
 ### Links
 - Data source 1: https://globalenergymonitor.org/projects/global-wind-power-tracker/summary-tables/
 - Data source 2: https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_annex-iii.pdf
 - Data source 3: https://ourworldindata.org/energy-mix
 ## Method and medium
+The final project will utilize the storytelling platform Shorthand to weave a compelling narrative that is both informative and interactive. Shorthand's intuitive design interface could integrate a mix of text, images, and data visualizations seamlessly, creating an engaging and immersive storytelling experience for the audience.
+
+The storyline will be structured in a scrollable format, guiding the audience through the evolution of wind energy with interactive elements such as clickable maps, animated charts, and sliders revealing time-series data. This approach ensures the story flows logically, enabling the viewer to grasp the significance of wind energy's growth over the past decade and its impact on sustainability efforts globally.
+
+In addition to Shorthand, I'm planning to employ other digital tools to enhance the storytelling. For instance, data visualizations will be created using Tableau, known for its powerful and dynamic visualization capabilities. These visualizations will then be embedded into the Shorthand story, ensuring that the data speaks effectively to the audience.
+
+To adhere to the course's emphasis on digital documentation, the entire project will be hosted online, making it readily accessible for public viewing and sharing. While PowerPoint slides will not be the primary medium, a succinct pitch deck may be utilized to summarize the project's context and goals during live presentations or as a supplementary material for viewers seeking a quick overview.
 
 [Go back to main portfolio page](README.md)
