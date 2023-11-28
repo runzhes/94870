@@ -52,7 +52,7 @@ Sketch 3 will illustrate wind energy capacity by country in a world map, giving 
 
 ### Sketch 4
 Sketch 4 is detailed wind energy capacity by province in China.
-
+![image](https://github.com/runzhes/94870/blob/main/China%20map.png?raw=true)
 
 ### Sketch 5
 Sketch 5 will display the global primary energy consumption share of different sources from 2000-2022, emphasizing the relatively low share of wind energy.
@@ -60,7 +60,7 @@ Sketch 5 will display the global primary energy consumption share of different s
 
 ### Sketch 6
 Sketch 6 will show the Top 5 wind energy share countries' trend from 2000-2022, as well as China and US, two countries with largest wind energy capacity.
-
+![image](https://github.com/runzhes/94870/blob/main/Top5.png?raw=true)
 
 ### Sketch 7
 Sketch 7 will depict the life-cycle emissions of selected electricity supply technologies, highting the low-carbon attribute of wind energy.
