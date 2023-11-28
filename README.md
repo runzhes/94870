@@ -22,5 +22,6 @@ Here's where all my cool work will go!
 ### Assignment 3 & 4: Critique by Design with Tableau (MakeoverMonday)
 [Link to other page](page3.md)
 ### Final project
-[Link to other page](final.md)
+[Part 1](final.md)
+[Part 2](final_2.md)
 
