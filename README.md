@@ -23,5 +23,6 @@ Here's where all my cool work will go!
 [Link to other page](page3.md)
 ### Final project
 [Part 1](final.md)
+
 [Part 2](final_2.md)
 
