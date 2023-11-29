@@ -1,6 +1,6 @@
 # Harnessing the Wind: Two Decades of Growth in Global Wind Energy
 ## Wireframes and storyboards
-<script src="https://carnegiemellon.shorthandstories.com/harnessing-the-wind-two-decades-of-growth-in-global-wind-energy/embed.js"></script>
+[View our Shorthand story on Wind Energy](https://carnegiemellon.shorthandstories.com/harnessing-the-wind-two-decades-of-growth-in-global-wind-energy/)
 
 ## User research and interviews
 ###  Target audience
