@@ -21,7 +21,7 @@ Wind energy stands at the forefront of the global shift towards renewable power 
 - Call to Action:
   - For environmental advocates: Join the movement for a greener future
   - For investors: Invest in the future of energy
-  - For educators: Educate the next generation of environmental champions\
+  - For educators: Educate the next generation of environmental champions
   
 ### Story Arc
 - Rising Action: The steady increase in global wind energy capacity, with a focus on years showing significant policy shifts or technological advancements.
