@@ -28,7 +28,16 @@ When targeting environmental advocates, investors, and educators, but with limit
 - Is there any aspect of the story that you think could be improved or presented differently? Any suggestions you’d like to share?"
 
 ### Findings from interviews
-Participant 1 (Engineering Student, 25, active in sustainability initiatives)
+Participant 1 (Engineering Student, 25, Active in Sustainability Initiatives)
+- The participant was impressed by the clarity and interactivity of the world map depicting wind energy capacity, finding it particularly effective.
+- Suggested enhancements for the life-cycle emission chart and the consumption share chart, recommending the use of arrows, labels, or striking colors to highlight wind technologies more prominently.
+- The smaller-than-expected share of wind energy was surprising, as the participant initially thought it would be larger.
+- Expressed a desire to understand more about the disparities in wind energy capacity between developed and developing countries.
+- The story arc was perceived as clear and well-structured, with a noticeable build-up, peak, and resolution, following modern web design trends.
+- The call to action part, particularly the slogan, was well-received, indicating effective communication in this section.
+- While the focus on educators as a target audience was somewhat unexpected for the participant, they found the other two audience categories (environmental advocates and investors) clear and reasonable.
+- The suggestion to include energy development companies as a target audience was made, with the aim of persuading them to transition to wind energy.
+- The story piqued the participant's interest in learning more about wind energy, indicating its success in engaging and educating about the sector's potential and current market share.
 
 Participant 2 (Economics Student, 23, Interested in Sustainable Investments)
 - The participant found certain aspects of the story unclear, particularly the difference between 'operating' capacity and increments in capacity.
@@ -41,6 +50,7 @@ Participant 2 (Economics Student, 23, Interested in Sustainable Investments)
 - Africa was unreadable in the first chart; changing the order of regions or adjusting colors was advised for better visibility.
 - The story was found to be interesting and sparked an interest in learning more about the field, indicating a successful engagement with the topic.
 - While the current audience categorization (environmental advocates, investors, educators) was deemed reasonable, the participant suggested expanding it to include policymakers, government officers, and energy development companies, which could benefit from this information.
+
 Participant 3 (Engineering Student, 23, interest in innovative teaching methods)
 
 
