@@ -29,7 +29,7 @@ When targeting environmental advocates, investors, and educators, but with limit
 
 ### Findings from interviews
 Participant 1 (Engineering Student, 25, active in sustainability initiatives)
-- .
+
 Participant 2 (Economics Student, 23, Interested in Sustainable Investments)
 - The participant found certain aspects of the story unclear, particularly the difference between 'operating' capacity and increments in capacity.
 - Suggested clarifying the storyline, especially the transition between sections on share and capacity increment, it was recommended to potentially exclude the geographic part to improve clarity.
