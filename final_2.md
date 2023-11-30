@@ -64,5 +64,20 @@ Participant 3 (Engineering Student, 23, Interested in Innovative Teaching Method
 - To make each chapter more impactful, they proposed adding specific conclusions or key takeaways, which could be especially beneficial for chapters like 'geographic spread'.
 
 ###  Changes plan on implementing
+Based on the feedback from the three participants, there are several changes and improvements I plan to implement in my visualizations for the next phase of the project. The feedback provides valuable insights into areas of clarity, engagement, and audience targeting. Here's how I plan to use this feedback:
+- Consistent Feedback and Planned Changes:
+  - Enhance Data Visualization Clarity:
+    - World Map Enhancements: Maintain the clarity and interactivity of the world map as it was well-received.
+    - Chart Modifications: Add direct labels to the line charts for better readability, as suggested by both Participant 3 and Participant 2. This will eliminate the need for cross-referencing with a legend.
+    - Highlight Key Data: Use arrows, labels, or distinctive colors in the life-cycle emission chart and consumption share chart to highlight wind technologies more effectively, as advised by Participant 1 and Participant 2.
+  - Improve Storyline and Logic:
+    - Clarify Terminology: Simplify technical terms (like 'coal-PC', 'solar-PV') for a broader audience's understanding.
+    - Story Structure: Enhance the logic and flow of the story, making the transition between sections smoother, especially between 'share' and 'capacity increment' sections.
+    - Subheadings and Summaries: Add summaries or key takeaways at the beginning or end of each chapter, especially in 'geographic spread', to provide context and highlight the main points.
+  - Address Audience Targeting:
+    - Audience Expansion: Include policymakers, landowners, and energy development companies as part of the target audience to broaden the impact.
+    - Narrow Down Categories: Refine the categories for 'environmental advocates' and 'educators' to make them more specific and relatable.
+- Addressing Conflicting Observations:
+  - Geographical Content: While Participant 2 suggested possibly excluding the geographic part for clarity, the global map was highly praised by the other participants for its clarity and effectiveness. In response, I will retain the geographic elements but ensure they are integrated more seamlessly into the narrative.
 
 [Go back to main portfolio page](README.md)
