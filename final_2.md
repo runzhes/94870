@@ -51,8 +51,17 @@ Participant 2 (Economics Student, 23, Interested in Sustainable Investments)
 - The story was found to be interesting and sparked an interest in learning more about the field, indicating a successful engagement with the topic.
 - While the current audience categorization (environmental advocates, investors, educators) was deemed reasonable, the participant suggested expanding it to include policymakers, government officers, and energy development companies, which could benefit from this information.
 
-Participant 3 (Engineering Student, 23, interest in innovative teaching methods)
-
+Participant 3 (Engineering Student, 23, Interested in Innovative Teaching Methods)
+- The participant found the global map on wind energy capacity clear and easy to understand.
+- They suggested direct labeling on each line in the line chart for better readability and ease of matching data points, instead of relying on a legend.
+- The small 3% share of wind energy in the energy mix came as a surprise.
+- While the participant could follow the general structure of the story, they noted that the logic could be clearer.
+- Recommended adding a summary, needs, highlights, or conclusions in subheadings, particularly for the chapter on geographic spread, to enhance clarity and provide context for each section.
+- The participant felt the target audience categories were too broad, specifically pointing out that 'environmental advocates' and 'educators' could be more narrowly defined.
+- Suggestions for expanding the target audience included policymakers and landowners, reflecting a broader range of stakeholders.
+- There was a clear interest in learning more about wind energy data, indicating engagement with the topic and a desire for deeper knowledge.
+- The overall story arc was somewhat recognizable, but the participant indicated a need for more defined narrative structure.
+- To make each chapter more impactful, they proposed adding specific conclusions or key takeaways, which could be especially beneficial for chapters like 'geographic spread'.
 
 ###  Changes plan on implementing
 
