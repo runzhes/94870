@@ -26,3 +26,4 @@ Here's where all my cool work will go!
 
 [Part 2](final_2.md)
 
+[Part 3](final_3.md)
